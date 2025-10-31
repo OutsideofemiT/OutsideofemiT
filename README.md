@@ -42,7 +42,7 @@ Ethical tech · Afro-cosmic visual storytelling
 ## 📫 Contact
 
 - Email: carmenwh33l3r@gmail.com
-- [LinkedIn](https://linkedin.com/in/carmenwheeler)
+- [LinkedIn](https://linkedin.com/in/carmendwheeler)
 
 ---
 
