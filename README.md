@@ -12,6 +12,7 @@ I build scalable platforms for wellness and creative learning, experiment with e
 - **Smart Gym:** Full-stack TypeScript + React platform with membership, QR check-in/out, café ordering UI, and Stripe integration
 - **MERN Starter Vol 1:** Modern boilerplate for MongoDB, Express, React + Vite, Node.js — production-ready, cosmic energy included
 - **Kairo Collective Studio Hub:** Cosmic archive for small business owners and creators
+- **Case Study Generator:** Instantly create engaging, client-ready case studies to showcase your portfolio and freelance wins
 - **Portfolio Refresh:** Live at [carmenwheelerportfolio.vercel.app](https://carmenwheelerportfolio.vercel.app)
 
 ---
