@@ -1,19 +1,26 @@
-# 👋 Hi, I’m Carmen Wheeler (@outsideofemiT)
+👋 Hi, I'm Carmen Wheeler (@outsideofemiT)
+Emerging full-stack developer · Brand strategist · Afrofuturist creator
 
-Emerging full-stack developer and brand strategist blending technical precision with poetic storytelling. I build scalable platforms for wellness and learning, experiment with ethical AI, and design modular systems that center intentional UX.
+Blending technical precision, cosmic art, and poetic storytelling. I build scalable platforms for wellness and creative learning, experiment with ethical AI, and design modular, intentional UX systems.
 
-## 🔍 What I'm Working On
-- **Smart Gym**: A full-stack wellness platform with membership management, QR check-in/out, café ordering UI, and Stripe integration.
-- **Outside of emiT**: A cosmic archive of Afro-futurist digital art, genre-fluid aesthetics, and creative coding experiments.
-- **Portfolio Refresh**: Currently evolving to reflect recent full-stack and AI-integrated work. Live at [carmenwheelerportfolio.vercel.app](https://carmenwheelerportfolio.vercel.app/)
+🌌 What I'm Building
+Smart Gym: Full-stack TypeScript + React platform with membership, QR check-in/out, café ordering UI, and Stripe integration
 
-## 🎯 Interests
-AI-integrated interfaces · Scalable design systems · Music-inspired development · Ethical tech · Visual storytelling
+MERN Starter Vol 1: Modern boilerplate for MongoDB, Express, React + Vite, Node.js—production-ready, cosmic energy included
 
-## 🎮 Fun Fact
-Wireframes used to feel like creative confinement—but I’m learning to treat them as quiet collaborators in the build.
+Kairo Collective Studio Hub: Cosmic archive for small business owners and creators
 
----
-📫 Reach me at: carmenwh33l3r@gmail.com · [LinkedIn](https://linkedin.com/in/carmendwheeler)
+Portfolio Refresh: Live at carmenwheelerportfolio.vercel.app
 
+🪐 Published Journals: Carmen Wheeler - Amazon Author Page — Afrofuturist, cosmic, and song-inspired journals
 
+🤝 Open to Collaboration
+If you’re building something poetic, cosmic, or designed for humans, let’s connect!
+I love partnering on creative, technical, and founder-friendly projects. Hit me up for open-source work, digital storytelling, or journal design.
+
+🖤 Interests
+AI-integrated interfaces · Scalable design systems · Music-inspired development · Ethical tech · Afro-cosmic visual storytelling
+
+📫 Email: carmenwh33l3r@gmail.com · LinkedIn
+
+Always open to creative collaboration in full-stack dev, UI/UX, design, and cosmic storytelling.
