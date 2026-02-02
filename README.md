@@ -9,11 +9,12 @@ I build scalable platforms for wellness and creative learning, experiment with e
 
 ## 🌌 What I'm Building
 
-- **Smart Gym:** Full-stack TypeScript + React platform with membership, QR check-in/out, café ordering UI, and Stripe integration
-- **MERN Starter Vol 1:** Modern boilerplate for MongoDB, Express, React + Vite, Node.js — production-ready, cosmic energy included
-- **Kairo Collective Studio Hub:** Cosmic archive for small business owners and creators
-- **Case Study Generator:** Instantly create engaging, client-ready case studies to showcase your portfolio and freelance wins
-- **Portfolio Refresh:** Live at [carmenwheelerportfolio.vercel.app](https://carmenwheelerportfolio.vercel.app)
+- **Che Bella Donna – E‑Commerce Platform:** Full‑stack Next.js + TypeScript boutique storefront with Stripe checkout, secure auth, and an admin dashboard for product, order, and content management.  
+- **Smart Gym:** Full‑stack TypeScript + React platform with memberships, QR check‑in/out, café ordering UI, and Stripe integration.  
+- **MERN Starter Vol. 1:** Production‑ready boilerplate for MongoDB, Express, React + Vite, and Node.js — opinionated structure with a little cosmic energy.  
+- **Kairo Collective Studio Hub:** Centralized studio OS for small business owners and creators, combining project management, content planning, and brand assets.  
+- **Case Study Generator:** Tool to instantly generate polished, client‑ready case studies to showcase freelance projects and outcomes.  
+- **Portfolio Refresh:** Live at [carmenwheelerportfolio.vercel.app](https://carmenwheelerportfolio.vercel.app) — updated personal site highlighting full‑stack work, design, and client projects.
 
 ---
 
