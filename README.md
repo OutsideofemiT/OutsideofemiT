@@ -20,9 +20,8 @@ I build scalable platforms for wellness and creative learning, experiment with e
 
 ## 🪐 Published Journals
 
-Afrofuturist, cosmic, and song-inspired art journals available on Amazon:  
-[**Carmen Wheeler – Amazon Author Page**](https://www.amazon.com/stores/CARMEN-WHEELER/author/B0FX3B9PS9?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true&ccs_id=79f179b3-0601-4070-b857-61fdc95f0f2d)
-[Sacred Roots--Journals**](https://github.com/user-attachments/assets/c1077426-385d-4cca-808c-04d682aa6726)
+[View my author page and published journals on Amazon](https://www.amazon.com/stores/CARMEN-WHEELER/author/B0FX3B9PS9?ref=ap_rdr&shoppingPortalEnabled=true&ccs_id=d539a36d-4e24-4125-b276-cb6315f2f1ed)
+
 
 
 ## 🤝 Open to Collaboration
