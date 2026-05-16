@@ -33,7 +33,7 @@ into every project I ship.
   my print journal line, published under **Outside of emiT**, my
   independent publishing imprint. Built and shipped as both developer
   and author. Next.js App Router + TypeScript, deployed on Vercel.
-  [View site →](https://sacred-roots-journals.vercel.app)
+  
 
 - **Kairo Collective Studio** – The studio site for KCS, showcasing
   services, work, and brand identity.
@@ -52,7 +52,7 @@ into every project I ship.
 Author and publisher of the **Sacred Roots Journal Series** under the
 **Outside of emiT** imprint.
 
-[View my author page on Amazon →](https://www.amazon.com/stores/CARMEN-WHEELER/author/B0FX3B9PS9)
+([View site →](https://sacred-roots-journals.vercel.app))
 
 ---
 
@@ -62,10 +62,12 @@ Author and publisher of the **Sacred Roots Journal Series** under the
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
 ---
 
 ## 🖤 Interests
